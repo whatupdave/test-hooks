@@ -1,1 +1,3 @@
-Someone should write a real readme here
+Someone should write a real readme here.
+
+Seriously.
